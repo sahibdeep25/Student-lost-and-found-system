@@ -1,5 +1,4 @@
 # Student lost and found system
-# College Lost and Found Management System
 
 ## Project Overview
 The College Lost and Found Management System is a C++ console-based application developed to manage lost and found items within a college campus. It provides a simple way to report, view, search, modify, update and delete item records.
